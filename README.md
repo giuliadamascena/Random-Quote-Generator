@@ -21,7 +21,7 @@ This project is a **responsive random quote generator** that fetches inspiration
 ## 🚀 Demo
 
 Try the live version here:
-👉 [http://127.0.0.1:5500/index.html](#)
+👉 [[http://127.0.0.1:5500/index.html](#)](https://giuliadamascena.github.io/Random-Quote-Generator/)
 
 
 ---
